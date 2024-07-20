@@ -1,6 +1,24 @@
 <<<<<<< HEAD
 # ExpenseTrackerAssignment
 =======
+Expense Tracker Application
+I created this Expense Tracker application as part of an assessment given to me by a company. To ensure I completed it properly, I worked continuously on it and developed the following features:
+
+Expense Management: Track and manage your expenses efficiently.
+Category Management: Organize expenses into different categories for better tracking.
+Graph Representation: Visualize your expenses with a comprehensive expense chart.
+During the development process, I encountered some challenges, particularly with using Git for the first time to merge repositories. As a result, some files got mixed up, and I had to work through resolving conflicts and ensuring proper directory structuring. Despite these challenges, I had a lot of fun working on this project and am glad I learned many important features and techniques.
+
+Challenges Faced
+Git Merge Conflicts: I faced issues with file conflicts during my first Git merge, which required careful resolution.
+Directory Structuring: Ensuring a clean and organized directory structure was challenging but important for maintaining the project.
+Learnings
+This project allowed me to gain hands-on experience with:
+
+Implementing key features in an expense management application.
+Resolving Git merge conflicts and maintaining a clean project structure.
+Applying continuous learning and problem-solving skills to overcome challenges.
+Overall, this project was a great learning experience, and I am proud of the outcome. I look forward to applying these skills in future projects and continuing to improve as a developer.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
